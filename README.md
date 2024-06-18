@@ -1,4 +1,4 @@
-# Supermarket-Data-Analysis
+# Walmart-Data-Analysis
 Technologies used:
 - Business Intelligence
 - Database
