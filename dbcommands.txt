@@ -28,10 +28,10 @@ mysql> show databases;
 +--------------------+
 10 rows in set (0.01 sec)
 
-mysql> create database prachi;
+mysql> create database balawatt;
 Query OK, 1 row affected (0.01 sec)
 
-mysql> use prachi;
+mysql> use balawatt;
 Database changed
 mysql> create table customer (customerid varchar(256), customername varchar(256), state varchar(256), city varchar(256));
 Query OK, 0 rows affected (0.05 sec)
